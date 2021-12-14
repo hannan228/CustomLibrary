@@ -1,0 +1,4 @@
+include ':app:mylibrary2'
+include ':mylibrary'
+include ':app'
+rootProject.name = "CustomLibrary"
