@@ -15,7 +15,7 @@ public class Toaster extends AppCompatActivity {
     }
 
     public void addition(View view) {
-        
+
     }
 
 }
